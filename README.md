@@ -20,4 +20,11 @@ However, as the field evolves and the literature expands, the term active learni
 * Experiments (e.g., synthesis) or simulations (e.g., DFT) are expensive (hours/days, high reagents/manpower).
 * Design spaces are vast: e.g., 10^60 possible high-entropy alloys from 5+ elements.
 * AL reduces queries by 50-90% (e.g., mapping performance landscapes with 10s vs. 100s of experiments).
+
+## Application of AL in the field of materials
+We introduces a task-oriented classification of Active Learning (AL) methods, emphasizing their diversity in reducing labeling costs and speeding up discovery. It organizes AL along two orthogonal axes: acquisition paradigms (pool-based vs. generative) and knowledge integration (purely data-driven vs. domain-informed). This framework provides a conceptual foundation, distinguishing what to optimize (objectives) from how candidates are sourced (acquisition), and unifies variants under an iterative acquisition-update process tailored to materials science constraints.
+### Pool-Based Active Learning for Materials Science
+
+### Generative Active Learning for Materials Science
+
 ## References
