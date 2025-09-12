@@ -1,2 +1,2 @@
 # awsome-AL
-A review of active learning
+## Accelerating Materials Discovery through Active Learning: Methods, Challenges and Opportunities
