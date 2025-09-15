@@ -18,7 +18,7 @@ However, as the field evolves and the literature expands, the term active learni
 * From a training perspective: an interactive labeling, training, and evaluation process.
 ### Why Crucial for Materials Science?
 * Experiments (e.g., synthesis) or simulations (e.g., DFT) are expensive (hours/days, high reagents/manpower).
-* Design spaces are vast: e.g., $10^60$ possible high-entropy alloys from 5+ elements.
+* Design spaces are vast: e.g., $10^(60)$ possible high-entropy alloys from 5+ elements.
 * AL reduces queries by 50-90% (e.g., mapping performance landscapes with 10s vs. 100s of experiments).
 
 ## Application of AL in the field of materials
@@ -36,7 +36,7 @@ We introduces a task-oriented classification of Active Learning (AL) methods, em
 
 | Document subsection (original) | Primary material task types | Brief rationale |
 | :-----| :----- | :----- |
-| Evolutionary Algorithm-Based Generative AL | Combinatorial/discrete design exploration; multi-objective (Pareto) optimization & Evolutionary operators (crossover, mutation) directly manipulate discrete design variables and support Pareto-front construction via non-dominated sorting. |
+| Evolutionary Algorithm-Based Generative AL | Combinatorial/discrete design exploration; multi-objective (Pareto) optimization | Evolutionary operators (crossover, mutation) directly manipulate discrete design variables and support Pareto-front construction via non-dominated sorting. |
 | VAE-Based Generative AL | Conditional/target-oriented generation; latent-space optimization; virtual library expansion | VAEs provide continuous, differentiable latent representations that facilitate interpolation, optimization, and conditional sampling for target-directed design. |
 | GAN-Based Generative AL | High-diversity candidate generation; exploratory discovery; few-shot target search | GANs excel at producing diverse samples for exploratory search but typically require physics-based constraints or downstream filtering to ensure physical feasibility. |
 | LLMs-Based AL | Textual knowledge extraction; generative proposal of compositions/structures/recipes; human-machine collaboration | LLMs serve as versatile generators that formalize priors from literature and suggest candidates/strategies, accelerating discovery in label-poor settings.|
