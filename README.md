@@ -53,7 +53,7 @@ We introduces a task-oriented classification of Active Learning (AL) methods, em
 
 [Lookman, T., Balachandran, P.V., Xue, D., and Yuan, R. (2019). Active learning in materials science with emphasis on adaptive sampling using uncertainties for targeted design. npj Computational Materials, 5, 21.]()
 
-[Bai, X., and Zhang, X. (2025). Artificial intelligence-powered materials science. Nano-Micro Letters, 17, 1–30.
+[Bai, X., and Zhang, X. (2025). Artificial intelligence-powered materials science. Nano-Micro Letters, 17, 1–30.]()
 
 [Shahriari, B., Swersky, K., Wang, Z., Adams, R.P., and De Freitas, N. (2015). Taking the human out of the loop: A review of bayesian optimization. Proceedings of the IEEE, 104, 148–175.]()
 
@@ -183,7 +183,7 @@ We introduces a task-oriented classification of Active Learning (AL) methods, em
 
 [Snoek, J., Larochelle, H., and Adams, R.P. (2012). Practical Bayesian optimization of machine learning algorithms. Advances in Neural Information Processing Systems, 25.]()
 
-[Asprion, N., Böttcher, R., Pack, R., Stavrou, M.E., Höller, J., Schwientek, J., and Bortz, M. (2019). Gray-box modeling for the optimization of chemical processes. Chemie Ingenieur Technik, 91, 305–313.
+[Asprion, N., Böttcher, R., Pack, R., Stavrou, M.E., Höller, J., Schwientek, J., and Bortz, M. (2019). Gray-box modeling for the optimization of chemical processes. Chemie Ingenieur Technik, 91, 305–313.]()
 
 [Psichogios, D.C., and Ungar, L.H. (1992). A hybrid neural network-first principles approach to process modeling. AIChE Journal, 38, 1499–1511.]()
 
