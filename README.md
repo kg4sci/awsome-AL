@@ -18,7 +18,7 @@ However, as the field evolves and the literature expands, the term active learni
 * From a training perspective: an interactive labeling, training, and evaluation process.
 ### Why Crucial for Materials Science?
 * Experiments (e.g., synthesis) or simulations (e.g., DFT) are expensive (hours/days, high reagents/manpower).
-* Design spaces are vast: e.g., $10^(60)$ possible high-entropy alloys from 5+ elements.
+* Design spaces are vast: e.g., $10^{60}$ possible high-entropy alloys from 5+ elements.
 * AL reduces queries by 50-90% (e.g., mapping performance landscapes with 10s vs. 100s of experiments).
 
 ## Application of AL in the field of materials
