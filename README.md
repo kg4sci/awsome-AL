@@ -18,13 +18,27 @@ However, as the field evolves and the literature expands, the term active learni
 * From a training perspective: an interactive labeling, training, and evaluation process.
 ### Why Crucial for Materials Science?
 * Experiments (e.g., synthesis) or simulations (e.g., DFT) are expensive (hours/days, high reagents/manpower).
-* Design spaces are vast: e.g., 10^60 possible high-entropy alloys from 5+ elements.
+* Design spaces are vast: e.g., $10^60$ possible high-entropy alloys from 5+ elements.
 * AL reduces queries by 50-90% (e.g., mapping performance landscapes with 10s vs. 100s of experiments).
 
 ## Application of AL in the field of materials
 We introduces a task-oriented classification of Active Learning (AL) methods, emphasizing their diversity in reducing labeling costs and speeding up discovery. It organizes AL along two orthogonal axes: acquisition paradigms (pool-based vs. generative) and knowledge integration (purely data-driven vs. domain-informed). This framework provides a conceptual foundation, distinguishing what to optimize (objectives) from how candidates are sourced (acquisition), and unifies variants under an iterative acquisition-update process tailored to materials science constraints.
 ### Pool-Based Active Learning for Materials Science
 
+| Document subsection (original) | Primary material task types | Brief rationale |
+| :-----| :----- | :----- |
+| Probabilistic and Bayesian Models | Composition screening; property prediction; multi-objective optimization | GP and RF provide predictive mean and variance directly, which enables acquisition functions (e.g., EI, UCB) and constrained/multi-objective extensions. |
+| Neural Networks | High-dimensional property prediction; surrogate models for potential-energy surfaces; image/spectral characterization | DNNs (MLP/CNN/HDNNP) can fit complex nonlinear mappings, handle structured inputs (images, spectra), and act as low-latency surrogates replacing expensive simulations.|
+| Graph Neural Networks (GNNs) | Crystal/molecular structure design and discovery; structure–composition joint screening; catalyst/functional-material prediction | GNNs encode atom–bond topology naturally, making them well-suited for structure-centric tasks and model–DFT closed-loop screening.
+
+
 ### Generative Active Learning for Materials Science
+
+| Document subsection (original) | Primary material task types | Brief rationale |
+| :-----| :----- | :----- |
+| Evolutionary Algorithm-Based Generative AL | Combinatorial/discrete design exploration; multi-objective (Pareto) optimization & Evolutionary operators (crossover, mutation) directly manipulate discrete design variables and support Pareto-front construction via non-dominated sorting. |
+| VAE-Based Generative AL | Conditional/target-oriented generation; latent-space optimization; virtual library expansion | VAEs provide continuous, differentiable latent representations that facilitate interpolation, optimization, and conditional sampling for target-directed design. |
+| GAN-Based Generative AL | High-diversity candidate generation; exploratory discovery; few-shot target search | GANs excel at producing diverse samples for exploratory search but typically require physics-based constraints or downstream filtering to ensure physical feasibility. |
+| LLMs-Based AL | Textual knowledge extraction; generative proposal of compositions/structures/recipes; human-machine collaboration | LLMs serve as versatile generators that formalize priors from literature and suggest candidates/strategies, accelerating discovery in label-poor settings.|
 
 ## References
