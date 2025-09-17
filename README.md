@@ -32,7 +32,7 @@ Pool-based AL, the most widely adopted paradigm in the field of materials discov
 | Neural Networks | High-dimensional property prediction; surrogate models for potential-energy surfaces; Crystal/molecular structure designand discovery; image/spectral characterization | Structure design and discovery:41 23 25 42 43 46 48 47 50 51; Composition screening:49 52} |
 
 ### Generative Active Learning for Materials Science
-
+Generative AL expands the exploration boundaries of materials discovery by integrating candidate sample generation with uncertainty assessment. Unlike pool-based methods that rely on pre-constructed static sample libraries, the generative paradigm utilizes generative models to ”instantly” construct efficient candidates within the materials design space, thereby transcending the limitations of existing samples in extremely high-dimensional combinatorial spaces. On one hand, generative models learn the latent distribution between material attributes and strucures, enabling the synthesis of ”novel” chemical compositions or microstructures with potential performance advantages. On the other hand, incorporating uncertainty quantification methods into the generative loop allows for the prioritized generation and labeling of samples expected  to provide the highest information gain for the surrogate model in each iteration, maximizing the utilization efficiency of experimental/computational resources.
 |Generative Model Type | Primary material task types | Representative references |
 | :-----| :----- | :----- |
 | Evolutionary Algorithm-Based Generative AL | Combinatorial/discrete design exploration; multi-objective optimization | Structure design and discovery:56 57  |
