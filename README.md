@@ -24,22 +24,25 @@ However, as the field evolves and the literature expands, the term active learni
 ## Application of AL in the field of materials
 We introduces a task-oriented classification of Active Learning (AL) methods, emphasizing their diversity in reducing labeling costs and speeding up discovery. It organizes AL along two orthogonal axes: acquisition paradigms (pool-based vs. generative-based) and knowledge integration (purely data-driven vs. domain-informed). This framework provides a conceptual foundation, distinguishing what to optimize (objectives) from how candidates are sourced (acquisition), and unifies variants under an iterative acquisition-update process tailored to materials science constraints.
 ### Pool-Based Active Learning for Materials Science
+Pool-based AL, the most widely adopted paradigm in the field of materials discovery, centers on selecting the most valuable samples for labeling from a static candidate materials pool.The effectiveness of pool-based methods relies heavily on whether the selected model is well-suited to the current task’s data structure, feature modalities, and prediction objectives. Different types of learning models exhibit significant variations in uncertainty quantification, sampling strategies, and feature representation capabilities when handling diverse materials data types. The following discussion explores several primary model types used in pool-based AL for materials discovery and their corresponding application strategies, focusing on model-task compatibility.
 
-| Document subsection (original) | Primary material task types | Brief rationale |
+| Model Types | Primary material task types | Representative references |
 | :-----| :----- | :----- |
-| Probabilistic and Bayesian Models | Composition screening; property prediction; multi-objective optimization | GP and RF provide predictive mean and variance directly, which enables acquisition functions (e.g., EI, UCB) and constrained/multi-objective extensions. |
-| Neural Networks | High-dimensional property prediction; surrogate models for potential-energy surfaces; image/spectral characterization | DNNs (MLP/CNN/HDNNP) can fit complex nonlinear mappings, handle structured inputs (images, spectra), and act as low-latency surrogates replacing expensive simulations.|
-| Graph Neural Networks (GNNs) | Crystal/molecular structure design and discovery; structure–composition joint screening; catalyst/functional-material prediction | GNNs encode atom–bond topology naturally, making them well-suited for structure-centric tasks and model–DFT closed-loop screening.
-
+| Probabilistic and Bayesian Models | Composition screening; property prediction; multi-objective optimization | $ Composition screening:^{24 27 28 29 30 31 34 35 36 38 39 32} $
+$ Process condition optimization / synthesis optimization:^{26} $ |
+| Neural Networks | High-dimensional property prediction; surrogate models for potential-energy surfaces; Crystal/molecular structure designand discovery; image/spectral characterization | $ Structure design and discovery:^{41 23 25 42 43 46 48 47 50 51} $ 
+$ Composition screening:^{49 52} $|
 
 ### Generative Active Learning for Materials Science
 
-| Document subsection (original) | Primary material task types | Brief rationale |
+|Generative Model Type | Primary material task types | Representative references |
 | :-----| :----- | :----- |
-| Evolutionary Algorithm-Based Generative AL | Combinatorial/discrete design exploration; multi-objective (Pareto) optimization | Evolutionary operators (crossover, mutation) directly manipulate discrete design variables and support Pareto-front construction via non-dominated sorting. |
-| VAE-Based Generative AL | Conditional/target-oriented generation; latent-space optimization; virtual library expansion | VAEs provide continuous, differentiable latent representations that facilitate interpolation, optimization, and conditional sampling for target-directed design. |
-| GAN-Based Generative AL | High-diversity candidate generation; exploratory discovery; few-shot target search | GANs excel at producing diverse samples for exploratory search but typically require physics-based constraints or downstream filtering to ensure physical feasibility. |
-| LLMs-Based AL | Textual knowledge extraction; generative proposal of compositions/structures/recipes; human-machine collaboration | LLMs serve as versatile generators that formalize priors from literature and suggest candidates/strategies, accelerating discovery in label-poor settings.|
+| Evolutionary Algorithm-Based Generative AL | Combinatorial/discrete design exploration; multi-objective optimization | $ Structure design and discovery:^{56 57} $ |
+| VAE-Based Generative AL | Conditional/target-oriented generation; latent-space optimization; virtual library expansion | $ Composition screening:^{21 58 59 60 61} $ |
+| GAN-Based Generative AL | High-diversity candidate generation; exploratory discovery; few-shot target search | $ Composition screening:^{61 62 63,64} $ 
+$ Structure design and discovery:^{65} $ |
+| LLMs-Based AL | Textual knowledge extraction; generative proposal of compositions/structures/recipes; human-machine collaboration | $ Structure design and discovery:^{67} $
+$ Process condition optimization / synthesis optimization:^{66,68,69} $ |
 
 ## References
 
