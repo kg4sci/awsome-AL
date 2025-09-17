@@ -28,10 +28,8 @@ Pool-based AL, the most widely adopted paradigm in the field of materials discov
 
 | Model Types | Primary material task types | Representative references |
 | :-----| :----- | :----- |
-| Probabilistic and Bayesian Models | Composition screening; property prediction; multi-objective optimization | $ Composition screening:^{24 27 28 29 30 31 34 35 36 38 39 32} $
-$ Process condition optimization / synthesis optimization:^{26} $ |
-| Neural Networks | High-dimensional property prediction; surrogate models for potential-energy surfaces; Crystal/molecular structure designand discovery; image/spectral characterization | $ Structure design and discovery:^{41 23 25 42 43 46 48 47 50 51} $ 
-$ Composition screening:^{49 52} $|
+| Probabilistic and Bayesian Models | Composition screening; property prediction; multi-objective optimization | $ Composition screening:^{24 27 28 29 30 31 34 35 36 38 39 32}  Process condition optimization / synthesis optimization:^{26} $ |
+| Neural Networks | High-dimensional property prediction; surrogate models for potential-energy surfaces; Crystal/molecular structure designand discovery; image/spectral characterization | $ Structure design and discovery:^{41 23 25 42 43 46 48 47 50 51} Composition screening:^{49 52} $|
 
 ### Generative Active Learning for Materials Science
 
@@ -39,10 +37,8 @@ $ Composition screening:^{49 52} $|
 | :-----| :----- | :----- |
 | Evolutionary Algorithm-Based Generative AL | Combinatorial/discrete design exploration; multi-objective optimization | $ Structure design and discovery:^{56 57} $ |
 | VAE-Based Generative AL | Conditional/target-oriented generation; latent-space optimization; virtual library expansion | $ Composition screening:^{21 58 59 60 61} $ |
-| GAN-Based Generative AL | High-diversity candidate generation; exploratory discovery; few-shot target search | $ Composition screening:^{61 62 63,64} $ 
-$ Structure design and discovery:^{65} $ |
-| LLMs-Based AL | Textual knowledge extraction; generative proposal of compositions/structures/recipes; human-machine collaboration | $ Structure design and discovery:^{67} $
-$ Process condition optimization / synthesis optimization:^{66,68,69} $ |
+| GAN-Based Generative AL | High-diversity candidate generation; exploratory discovery; few-shot target search | $ Composition screening:^{61 62 63,64}  Structure design and discovery:^{65} $ |
+| LLMs-Based AL | Textual knowledge extraction; generative proposal of compositions/structures/recipes; human-machine collaboration | $ Structure design and discovery:^{67}  Process condition optimization / synthesis optimization:^{66,68,69} $ |
 
 ## References
 
