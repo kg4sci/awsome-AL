@@ -104,75 +104,97 @@ Generative AL expands the exploration boundaries of materials discovery by integ
 
 [31. Pedersen, J.K., Clausen, C.M., Krysiak, O.A., Xiao, B., Batchelor, T.A., Löffler, T., Mints, V.A., Banko, L., Arenz, M., Savan, A., et al. (2021). Bayesian optimization of high-entropy alloy compositions for electrocatalytic oxygen reduction. Angewandte Chemie, 133, 24346–24354.](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202108116)
 
-[31. Talapatra, A., Boluki, S., Duong, T., Qian, X., Dougherty, E., and Arróyave, R. (2018). Autonomous efficient experiment design for materials discovery with Bayesian model averaging. Physical Review Materials, 2, 113803.](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.113803)
+[32. Terayama, K., Tamura, R., Nose, Y., Hiramatsu, H., Hosono, H., Okuno, Y., and Tsuda,K. (2019). Efficient construction method for phase diagrams using uncertainty sampling.Physical Review Materials 3, 033802. ](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.3.033802)
 
-[32. Niu, X., Chen, Y., Sun, M., Nagao, S., Aoki, Y., Niu, Z., and Zhang, L. (2025). Bayesian learning-assisted catalyst discovery for efficient iridium utilization in electrochemical water splitting. Science Advances, 11, eadw0894.](https://www.science.org/doi/10.1126/sciadv.adw0894)
+[33. Talapatra, A., Boluki, S., Duong, T., Qian, X., Dougherty, E., and Arróyave, R. (2018). Autonomous efficient experiment design for materials discovery with Bayesian model averaging. Physical Review Materials, 2, 113803.](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.113803)
 
-[33. Wang, G., Mine, S., Chen, D., Jing, Y., Ting, K.W., Yamaguchi, T., Takao, M., Maeno, Z., Takigawa, I., Matsushita, K., et al. (2023). Accelerated discovery of multi-elemental reverse water-gas shift catalysts using extrapolative machine learning approach. Nature Communications, 14, 5861.](https://www.nature.com/articles/s41467-023-41341-3)
+[34. Niu, X., Chen, Y., Sun, M., Nagao, S., Aoki, Y., Niu, Z., and Zhang, L. (2025). Bayesian learning-assisted catalyst discovery for efficient iridium utilization in electrochemical water splitting. Science Advances, 11, eadw0894.](https://www.science.org/doi/10.1126/sciadv.adw0894)
 
-[34. Farache, D.E., Verduzco, J.C., McClure, Z.D., Desai, S., and Strachan, A. (2022). Active learning and molecular dynamics simulations to find high melting temperature alloys. Computational Materials Science, 209, 111386.](https://www.nature.com/articles/s41467-023-41341-3)
+[35. Wang, G., Mine, S., Chen, D., Jing, Y., Ting, K.W., Yamaguchi, T., Takao, M., Maeno, Z., Takigawa, I., Matsushita, K., et al. (2023). Accelerated discovery of multi-elemental reverse water-gas shift catalysts using extrapolative machine learning approach. Nature Communications, 14, 5861.](https://www.nature.com/articles/s41467-023-41341-3)
 
-[35. Harwani, M., Verduzco, J.C., Lee, B.H., and Strachan, A. (2025). Accelerating active learning materials discovery with fair data and workflows: A case study for alloy melting temperatures. Computational Materials Science, 249, 113640.](https://www.sciencedirect.com/science/article/abs/pii/S0927025624008619)
+[36. Farache, D.E., Verduzco, J.C., McClure, Z.D., Desai, S., and Strachan, A. (2022). Active learning and molecular dynamics simulations to find high melting temperature alloys. Computational Materials Science, 209, 111386.](https://www.nature.com/articles/s41467-023-41341-3)
 
-[36. Nie, S., Xiang, Y., Wu, L., Lin, G., Liu, Q., Chu, S., and Wang, X. (2024). Active learning guided discovery of high entropy oxides featuring high H2-production. Journal of the American Chemical Society, 146, 29325–29334.](https://pubs.acs.org/doi/10.1021/jacs.4c06272)
+[37. Harwani, M., Verduzco, J.C., Lee, B.H., and Strachan, A. (2025). Accelerating active learning materials discovery with fair data and workflows: A case study for alloy melting temperatures. Computational Materials Science, 249, 113640.](https://www.sciencedirect.com/science/article/abs/pii/S0927025624008619)
 
-[37. Cao, B., Su, T., Yu, S., Li, T., Zhang, T., Zhang, J., Dong, Z., and Zhang, T.Y. (2024). Active learning accelerates the discovery of high strength and high ductility lead-free solder alloys. Materials & Design, 241, 112921.](https://www.sciencedirect.com/science/article/pii/S0264127524002946)
+[38. Nie, S., Xiang, Y., Wu, L., Lin, G., Liu, Q., Chu, S., and Wang, X. (2024). Active learning guided discovery of high entropy oxides featuring high H2-production. Journal of the American Chemical Society, 146, 29325–29334.](https://pubs.acs.org/doi/10.1021/jacs.4c06272)
 
-[38. Jablonka, K.M., Jothiappan, G.M., Wang, S., Smit, B., and Yoo, B. (2021). Bias free multiobjective active learning for materials design and discovery. Nature Communications, 12, 2312.](https://www.nature.com/articles/s41467-021-22437-0)
+[39. Cao, B., Su, T., Yu, S., Li, T., Zhang, T., Zhang, J., Dong, Z., and Zhang, T.Y. (2024). Active learning accelerates the discovery of high strength and high ductility lead-free solder alloys. Materials & Design, 241, 112921.](https://www.sciencedirect.com/science/article/pii/S0264127524002946)
 
-[39. Xu, S., Chen, Z., Qin, M., Cai, B., Li, W., Zhu, R., Xu, C., and Xiang, X.D. (2024). Developing new electrocatalysts for oxygen evolution reaction via high throughput experiments and artificial intelligence. npj Computational Materials, 10, 194.](https://www.nature.com/articles/s41524-024-01386-4)
+[40. Jablonka, K.M., Jothiappan, G.M., Wang, S., Smit, B., and Yoo, B. (2021). Bias free multiobjective active learning for materials design and discovery. Nature Communications, 12, 2312.](https://www.nature.com/articles/s41467-021-22437-0)
 
-[40. Behler, J., and Parrinello, M. (2007). Generalized neural-network representation of high-dimensional potential-energy surfaces. Physical Review Letters, 98, 146401.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.146401)
+[41. Xu, S., Chen, Z., Qin, M., Cai, B., Li, W., Zhu, R., Xu, C., and Xiang, X.D. (2024). Developing new electrocatalysts for oxygen evolution reaction via high throughput experiments and artificial intelligence. npj Computational Materials, 10, 194.](https://www.nature.com/articles/s41524-024-01386-4)
 
-[41. Smith, J.S., Isayev, O., and Roitberg, A.E. (2017). ANI-1: An extensible neural network potential with DFT accuracy at force field computational cost. Chemical Science, 8, 3192–3203.](https://pubs.rsc.org/en/content/articlelanding/2017/sc/c6sc05720a)
+[42. Behler, J., and Parrinello, M. (2007). Generalized neural-network representation of high-dimensional potential-energy surfaces. Physical Review Letters, 98, 146401.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.146401)
 
-[42. Lubbers, N., Lookman, T., and Barros, K. (2017). Inferring low-dimensional microstructure representations using convolutional neural networks. Physical Review E, 96, 052111.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.052111)
+[43. Smith, J.S., Isayev, O., and Roitberg, A.E. (2017). ANI-1: An extensible neural network potential with DFT accuracy at force field computational cost. Chemical Science, 8, 3192–3203.](https://pubs.rsc.org/en/content/articlelanding/2017/sc/c6sc05720a)
 
-[43. DeCost, B.L., Lei, B., Francis, T., and Holm, E.A. (2019). High throughput quantitative metallography for complex microstructures using deep learning: A case study in ultrahigh carbon steel. Microscopy and Microanalysis, 25, 21–29.](https://academic.oup.com/mam/article-abstract/25/1/21/6887488?redirectedFrom=fulltext)
+[44. Liu, Y., Kelley, K.P., Vasudevan, R.K., Funakubo, H., Ziatdinov, M.A., and Kalinin, S.V.(2022). Experimental discovery of structure–property relationships in ferroelectric materials via active learning. Nature Machine Intelligence 4, 341–350. ](https://www.nature.com/articles/s42256-022-00460-0)
 
-[44. Reiser, P., Neubert, M., Eberhard, A., Torresi, L., Zhou, C., Shao, C., Metni, H., van Hoesel, C., Schopmans, H., Sommer, T., et al. (2022). Graph neural networks for materials science and chemistry. Communications Materials, 3, 93.](https://www.nature.com/articles/s43246-022-00315-6)
+[45. Bulanadi, R., Chowdhury, J., Hiroshi, F., Ziatdinov, M., Vasudevan, R., Biswas, A., and Liu,Y. (2025). Beyond optimization: Exploring novelty discovery in autonomous experiments.arXiv preprint arXiv:2508.20254.](https://www.researchgate.net/publication/395034231_Beyond_Optimization_Exploring_Novelty_Discovery_in_Autonomous_Experiments)
 
-[45. Chen, C., Ye, W., Zuo, Y., Zheng, C., and Ong, S.P. (2019). Graph networks as a universal machine learning framework for molecules and crystals. Chemistry of Materials, 31, 3564–3572.](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b01294)
+[46. Reiser, P., Neubert, M., Eberhard, A., Torresi, L., Zhou, C., Shao, C., Metni, H., van Hoesel, C., Schopmans, H., Sommer, T., et al. (2022). Graph neural networks for materials science and chemistry. Communications Materials, 3, 93.](https://www.nature.com/articles/s43246-022-00315-6)
 
-[46. Gal, Y., and Ghahramani, Z. (2016). Dropout as a Bayesian approximation: Representing model uncertainty in deep learning. In International Conference on Machine Learning, PMLR, 1050–1059.](https://proceedings.mlr.press/v48/gal16.html)
+[47. Chen, C., Ye, W., Zuo, Y., Zheng, C., and Ong, S.P. (2019). Graph networks as a universal machine learning framework for molecules and crystals. Chemistry of Materials, 31, 3564–3572.](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b01294)
 
-[47. Lakshminarayanan, B., Pritzel, A., and Blundell, C. (2017). Simple and scalable predictive uncertainty estimation using deep ensembles. Advances in Neural Information Processing Systems, 30.](https://dl.acm.org/doi/10.5555/3295222.3295387)
+[48. Gal, Y., and Ghahramani, Z. (2016). Dropout as a Bayesian approximation: Representing model uncertainty in deep learning. In International Conference on Machine Learning, PMLR, 1050–1059.](https://proceedings.mlr.press/v48/gal16.html)
 
-[48. Xie, T., and Grossman, J.C. (2018). Crystal graph convolutional neural networks for an accurate and interpretable prediction of material properties. Physical Review Letters, 120, 145301.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.145301)
+[49. Lakshminarayanan, B., Pritzel, A., and Blundell, C. (2017). Simple and scalable predictive uncertainty estimation using deep ensembles. Advances in Neural Information Processing Systems, 30.](https://dl.acm.org/doi/10.5555/3295222.3295387)
 
-[49. Ge, X., Yin, J., Ren, Z., Yan, K., Jing, Y., Cao, Y., Fei, N., Liu, X., Wang, X., Zhou, X., et al. (2024). Atomic design of alkyne semihydrogenation catalysts via active learning. Journal of the American Chemical Society, 146, 4993–5004.](https://pubs.acs.org/doi/10.1021/jacs.3c14495)
+[50. Xie, T., and Grossman, J.C. (2018). Crystal graph convolutional neural networks for an accurate and interpretable prediction of material properties. Physical Review Letters, 120, 145301.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.145301)
 
-[50. Chun, H., Lunger, J.R., Kang, J.K., Gómez-Bombarelli, R., and Han, B. (2024). Active learning accelerated exploration of single-atom local environments in multimetallic systems for oxygen electrocatalysis. npj Computational Materials, 10, 246.](https://www.nature.com/articles/s41524-024-01432-1)
+[51. Ge, X., Yin, J., Ren, Z., Yan, K., Jing, Y., Cao, Y., Fei, N., Liu, X., Wang, X., Zhou, X., et al. (2024). Atomic design of alkyne semihydrogenation catalysts via active learning. Journal of the American Chemical Society, 146, 4993–5004.](https://pubs.acs.org/doi/10.1021/jacs.3c14495)
 
-[51. Xu, W., Diesen, E., He, T., Reuter, K., and Margraf, J.T. (2024). Discovering high entropy alloy electrocatalysts in vast composition spaces with multiobjective optimization. Journal of the American Chemical Society, 146, 7698–7707.](https://pubs.acs.org/doi/10.1021/jacs.3c14486)
+[52. Chun, H., Lunger, J.R., Kang, J.K., Gómez-Bombarelli, R., and Han, B. (2024). Active learning accelerated exploration of single-atom local environments in multimetallic systems for oxygen electrocatalysis. npj Computational Materials, 10, 246.](https://www.nature.com/articles/s41524-024-01432-1)
 
-[52. Mozaffari, M.H., and Tay, L.L. (2021). Raman spectral analysis of mixtures with one-dimensional convolutional neural network. arXiv preprint arXiv:2106.05316.](https://ieeexplore.ieee.org/document/9664686)
+[53. Xu, W., Diesen, E., He, T., Reuter, K., and Margraf, J.T. (2024). Discovering high entropy alloy electrocatalysts in vast composition spaces with multiobjective optimization. Journal of the American Chemical Society, 146, 7698–7707.](https://pubs.acs.org/doi/10.1021/jacs.3c14486)
 
-[53. Kingma, D.P., and Welling, M. (2014). Auto-encoding variational Bayes. stat, 1050, 1.](https://openreview.net/forum?id=33X9fd2-9FyZd)
+[54. Vasudevan, R.K., Kelley, K.P., Hinkle, J., Funakubo, H., Jesse, S., Kalinin, S.V., and Ziatdinov, M. (2021). Autonomous experiments in scanning probe microscopy and spectroscopy:choosing where to explore polarization dynamics in ferroelectrics. ACS nano 15, 11253– 11262.](https://pubs.acs.org/doi/10.1021/acsnano.0c10239)
 
-[54. Goodfellow, I.J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., and Bengio, Y. (2014). Generative adversarial nets. Advances in Neural Information Processing Systems, 27.](https://proceedings.neurips.cc/paper/2022)
+[56. Ziatdinov, M., Liu, Y., Kelley, K., Vasudevan, R., and Kalinin, S.V. (2022). Bayesian active learning for scanning probe microscopy: From gaussian processes to hypothesis learning.ACS nano 16, 13492–13512.](https://pubs.acs.org/doi/10.1021/acsnano.2c05303)
 
-[55. Deb, K., Pratap, A., Agarwal, S., and Meyarivan, T. (2002). A fast and elitist multiobjective genetic algorithm: NSGA-II. IEEE Transactions on Evolutionary Computation, 6, 182–197.](https://ieeexplore.ieee.org/document/996017)
+[56. Lubbers, N., Lookman, T., and Barros, K. (2017). Inferring low-dimensional microstructure representations using convolutional neural networks. Physical Review E, 96, 052111.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.052111)
 
-[56. Raju, R.K., Sivakumar, S., Wang, X., and Ulissi, Z.W. (2023). Cluster-MLP: An active learning genetic algorithm framework for accelerated discovery of global minimum configurations of pure and alloyed nanoclusters. Journal of Chemical Information and Modeling, 63, 6192–6197.](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01431)
+[57. DeCost, B.L., Lei, B., Francis, T., and Holm, E.A. (2019). High throughput quantitative metallography for complex microstructures using deep learning: A case study in ultrahigh carbon steel. Microscopy and Microanalysis, 25, 21–29.](https://academic.oup.com/mam/article-abstract/25/1/21/6887488?redirectedFrom=fulltext)
 
-[57. Wu, S., Hamel, C.M., Ze, Q., Yang, F., Qi, H.J., and Zhao, R. (2020). Evolutionary algorithm-guided voxel-encoding printing of functional hard-magnetic soft active materials. Advanced Intelligent Systems, 2, 2000060.](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202000060)
+[58. Mozaffari, M.H., and Tay, L.L. (2021). Raman spectral analysis of mixtures with one-dimensional convolutional neural network. arXiv preprint arXiv:2106.05316.](https://ieeexplore.ieee.org/document/9664686)
 
-[58. Liu, Q., Allamanis, M., Brockschmidt, M., and Gaunt, A. (2018). Constrained graph variational autoencoders for molecule design. Advances in Neural Information Processing Systems, 31.](https://arxiv.org/abs/1805.09076)
+[59. Szymanski, N.J., Bartel, C.J., Zeng, Y., Diallo, M., Kim, H., and Ceder, G. (2023). Adaptively driven x-ray diffraction guided by machine learning for autonomous phase identification. npj Computational Materials 9, 31.](https://www.nature.com/articles/s41524-023-00984-y)
 
-[59. Xie, T., Fu, X., Ganea, O., Barzilay, R., and Jaakkola, T. (2022). Crystal diffusion variational autoencoder for periodic material generation. Bulletin of the American Physical Society, 67.](https://openreview.net/forum?id=03RLpj-tc_)
+[60. Tang, W.T., Chakrabarty, A., and Paulson, J.A. (2024). Beacon: A bayesian optimization strategy for novelty search in expensive black-box systems. arXiv:2406.03616.](https://www.semanticscholar.org/paper/BEACON%3A-A-Bayesian-Optimization-Strategy-for-Search-Tang-Chakrabarty/b15fa30730cec667142970019d34e7ab91bd08b7)
 
-[60. Lim, J., Ryu, S., Kim, J.W., and Kim, W.Y. (2018). Molecular generative model based on conditional variational autoencoder for de novo molecular design. Journal of Cheminformatics, 10, 31.](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0286-7)
+[61. Kingma, D.P., and Welling, M. (2014). Auto-encoding variational Bayes. stat, 1050, 1.](https://openreview.net/forum?id=33X9fd2-9FyZd)
 
-[61. Xin, R., Siriwardane, E.M., Song, Y., Zhao, Y., Louis, S.Y., Nasiri, A., and Hu, J. (2021). Active-learning-based generative design for the discovery of wide-band-gap materials. The Journal of Physical Chemistry C, 125, 16118–16128.](https://pubs.acs.org/doi/10.1021/acs.jpcc.1c02438)
+[62. Goodfellow, I.J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., and Bengio, Y. (2014). Generative adversarial nets. Advances in Neural Information Processing Systems, 27.](https://proceedings.neurips.cc/paper/2022)
 
-[62. Guo, W., Li, F., Wang, L., Zhu, L., Ye, Y., Wang, Z., Yang, B., Zhang, S., and Bai, S. (2025). Accelerated discovery of near-zero ablation ultra-high temperature ceramics via GAN-enhanced directionally constrained active learning. Advanced Powder Materials, 4, 100287.](https://www.sciencedirect.com/science/article/pii/S2772834X25000235)
+[63. Deb, K., Pratap, A., Agarwal, S., and Meyarivan, T. (2002). A fast and elitist multiobjective genetic algorithm: NSGA-II. IEEE Transactions on Evolutionary Computation, 6, 182–197.](https://ieeexplore.ieee.org/document/996017)
 
-[63. Kim, M., Ha, M.Y., Jung, W.B., Yoon, J., Shin, E., Kim, I.d., Lee, W.B., Kim, Y., and Jung, H.t. (2022). Searching for an optimal multi-metallic alloy catalyst by active learning combined with experiments. Advanced Materials, 34, 2108900.](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202108900)
+[64. Raju, R.K., Sivakumar, S., Wang, X., and Ulissi, Z.W. (2023). Cluster-MLP: An active learning genetic algorithm framework for accelerated discovery of global minimum configurations of pure and alloyed nanoclusters. Journal of Chemical Information and Modeling, 63, 6192–6197.](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01431)
 
-[64. Mok, D.H., Li, H., Zhang, G., Lee, C., Jiang, K., and Back, S. (2023). Data-driven discovery of electrocatalysts for CO2 reduction using active motifs-based machine learning. Nature Communications, 14, 7303.](https://www.nature.com/articles/s41467-023-43118-0)
+[65. Wu, S., Hamel, C.M., Ze, Q., Yang, F., Qi, H.J., and Zhao, R. (2020). Evolutionary algorithm-guided voxel-encoding printing of functional hard-magnetic soft active materials. Advanced Intelligent Systems, 2, 2000060.](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202000060)
 
-[65. Gómez-Bombarelli, R., Aguilera-Iparraguirre, J., Hirzel, T.D., Duvenaud, D., Maclaurin, D., Blood-Forsythe, M.A., Chae, H.S., Einzinger, M., Ha, D.G., Wu, T., et al. (2016). Design of efficient molecular organic light-emitting diodes by a high-throughput virtual screening and experimental approach. Nature Materials, 15, 1120–1127.](https://www.nature.com/articles/nmat4717)
+[66. Wolters, M.A. (2015). A genetic algorithm for selection of fixed-size subsets with application to design problems. Journal of Statistical Software 68, 1–18.](https://www.jstatsoft.org/article/view/v068c01)
+
+[67. Liu, Q., Allamanis, M., Brockschmidt, M., and Gaunt, A. (2018). Constrained graph variational autoencoders for molecule design. Advances in Neural Information Processing Systems, 31.](https://arxiv.org/abs/1805.09076)
+
+[68. Xie, T., Fu, X., Ganea, O., Barzilay, R., and Jaakkola, T. (2022). Crystal diffusion variational autoencoder for periodic material generation. Bulletin of the American Physical Society, 67.](https://openreview.net/forum?id=03RLpj-tc_)
+
+[69. Lim, J., Ryu, S., Kim, J.W., and Kim, W.Y. (2018). Molecular generative model based on conditional variational autoencoder for de novo molecular design. Journal of Cheminformatics, 10, 31.](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0286-7)
+
+[70. Xin, R., Siriwardane, E.M., Song, Y., Zhao, Y., Louis, S.Y., Nasiri, A., and Hu, J. (2021). Active-learning-based generative design for the discovery of wide-band-gap materials. The Journal of Physical Chemistry C, 125, 16118–16128.](https://pubs.acs.org/doi/10.1021/acs.jpcc.1c02438)
+
+[71. Guo, W., Li, F., Wang, L., Zhu, L., Ye, Y., Wang, Z., Yang, B., Zhang, S., and Bai, S. (2025). Accelerated discovery of near-zero ablation ultra-high temperature ceramics via GAN-enhanced directionally constrained active learning. Advanced Powder Materials, 4, 100287.](https://www.sciencedirect.com/science/article/pii/S2772834X25000235)
+
+[72. Kim, M., Ha, M.Y., Jung, W.B., Yoon, J., Shin, E., Kim, I.d., Lee, W.B., Kim, Y., and Jung, H.t. (2022). Searching for an optimal multi-metallic alloy catalyst by active learning combined with experiments. Advanced Materials, 34, 2108900.](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202108900)
+
+[73. Mok, D.H., Li, H., Zhang, G., Lee, C., Jiang, K., and Back, S. (2023). Data-driven discovery of electrocatalysts for CO2 reduction using active motifs-based machine learning. Nature Communications, 14, 7303.](https://www.nature.com/articles/s41467-023-43118-0)
+
+[74. Gómez-Bombarelli, R., Aguilera-Iparraguirre, J., Hirzel, T.D., Duvenaud, D., Maclaurin, D., Blood-Forsythe, M.A., Chae, H.S., Einzinger, M., Ha, D.G., Wu, T., et al. (2016). Design of efficient molecular organic light-emitting diodes by a high-throughput virtual screening and experimental approach. Nature Materials, 15, 1120–1127.](https://www.nature.com/articles/nmat4717)
+
+75. Zhu, J.Y., Park, T., Isola, P., and Efros, A.A. (2017). Unpaired image-to-image translation928
+using cycle-consistent adversarial networks. In Proceedings of the IEEE international929
+conference on computer vision. pp. 2223–2232.930
+76. Panisilvam, J., Hajizadeh, E., Weeratunge, H., Bailey, J., and Kim, S. (2023). Asymmetric931
+cyclegans for inverse design of photonic metastructures. APL Machine Learning 1. 
 
 [66. Bran, A.M., Cox, S., Schilter, O., Baldassari, C., White, A.D., and Schwaller, P. (2024). Augmenting large language models with chemistry tools. Nature Machine Intelligence, 6, 525–535.](https://www.nature.com/articles/s42256-024-00832-8)
 
@@ -180,7 +202,18 @@ Generative AL expands the exploration boundaries of materials discovery by integ
 
 [68. Boiko, D.A., MacKnight, R., Kline, B., and Gomes, G. (2023). Autonomous chemical research with large language models. Nature, 624, 570–578.](https://www.nature.com/articles/s41586-023-06792-0)
 
+80. Buehler, M.J. (2025). Preflexor: Preference-based recursive language modeling for ex-940
+ploratory optimization of reasoning and agentic thinking. npj Artificial Intelligence 1, 4. 81. Buehler, M.J. (2024). Cephalo: Multi-modal vision-language models for bio-inspired mate-942
+rials analysis and design. Advanced Functional Materials 34, 2409531. 82. Buehler, M.J. (2025). In situ graph reasoning and knowledge expansion using graph-944
+preflexor. Advanced Intelligent Discovery pp. 202500006.
+
 [69. Zhang, Y., Han, Y., Chen, S., Yu, R., Zhao, X., Liu, X., Zeng, K., Yu, M., Tian, J., Zhu, F., et al. (2025). Large language models to accelerate organic chemistry synthesis. Nature Machine Intelligence, 1–13.](https://www.nature.com/articles/s42256-025-01066-y)
+
+84. Ghafarollahi, A., and Buehler, M.J. (2024). Protagents: protein discovery via large lan-949
+guage model multi-agent collaborations combining physics and machine learning. Digital950
+Discovery 3, 1389–1409. 951
+85. Ghafarollahi, A., and Buehler, M.J. (2025). Sparks: Multi-agent artificial intelligence model952
+discovers protein design principles. arXiv preprint arXiv:2504.19017.
 
 [70. Snoek, J., Larochelle, H., and Adams, R.P. (2012). Practical Bayesian optimization of machine learning algorithms. Advances in Neural Information Processing Systems, 25.](https://dl.acm.org/doi/10.5555/2999325.2999464)
 
@@ -198,7 +231,25 @@ Generative AL expands the exploration boundaries of materials discovery by integ
 
 [77. Khatamsaz, D., Neuberger, R., Roy, A.M., Zadeh, S.H., Otis, R., and Arróyave, R. (2023). A physics-informed Bayesian optimization approach for material design: Application to NiTi shape memory alloys. npj Computational Materials, 9, 221.](https://www.nature.com/articles/s41524-023-01173-7)
 
+94. Zhao, C., Zhang, F., Lou, W., Wang, X., and Yang, J. (2024). A comprehensive review976
+of advances in physics-informed neural networks and their applications in complex fluid977
+dynamics. Physics of Fluids 36. 95. Anagnostopoulos, S.J., Toscano, J.D., Stergiopulos, N., and Karniadakis, G.E. (2025).979
+Learning in pinns: Phase transition, diffusion equilibrium, and generalization. Neural Net-980
+works pp. 107983.981
+96. Gebauer, N., Gastegger, M., and Sch¨ utt, K. (2019). Symmetry-adapted generation of 3d982
+978
+point sets for the targeted discovery of molecules. Advances in neural information pro-983
+cessing systems 32. 984
+97. Xie, T., Fu, X., Ganea, O., Barzilay, R., and Jaakkola, T. (2022). Crystal diffusion variational985
+autoencoder for periodic material generation. Bulletin of the American Physical Society 67. 98. Buehler, M.J. (2022). Modeling atomistic dynamic fracture mechanisms using a progres-987
+sive transformer diffusion model. Journal of Applied Mechanics 89, 121009. 
+
 [78. Gelbart, M.A., Snoek, J., and Adams, R.P. (2014). Bayesian optimization with unknown constraints. In 30th Conference on Uncertainty in Artificial Intelligence, UAI 2014, AUAI Press, 250–259.](https://dl.acm.org/doi/10.5555/3020751.3020778)
+
+100. Harris, S.B., Vasudevan, R., and Liu, Y. (2025). Active oversight and quality control in992
+standard bayesian optimization for autonomous experiments. npj Computational Materials993
+988
+11, 23.
 
 [79. Sun, S., Tiihonen, A., Oviedo, F., Liu, Z., Thapa, J., Zhao, Y., Hartono, N.T.P., Goyal, A., Heumueller, T., Batali, C., et al. (2021). A data fusion approach to optimize compositional stability of halide perovskites. Matter, 4, 1305–1322.](https://www.sciencedirect.com/science/article/pii/S2590238521000084)
 
@@ -219,6 +270,25 @@ Generative AL expands the exploration boundaries of materials discovery by integ
 [87. Callaghan, M.W., and Müller-Hansen, F. (2020). Statistical stopping criteria for automated screening in systematic reviews. Systematic Reviews, 9, 273.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-020-01521-4)
 
 [88. Boetje, J., and van de Schoot, R. (2024). The SAFE procedure: A practical stopping heuristic for active learning-based screening in systematic reviews and meta-analyses. Systematic Reviews, 13, 81.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-024-02502-7)
+
+111. Sholokhov, A., Liu, Y., Mansour, H., and Nabi, S. (2023). Physics-informed neural ode1021
+(pinode): embedding physics into models using collocation points. Scientific Reports 13, 1022
+10166. 1023
+112. Qin, X., Zhong, B., Lv, S., Long, X., Xu, H., Li, L., Xu, K., Lou, Z., Luo, Q., and Wang, L.1024
+(2024). A zero-voltage-writing artificial nervous system based on biosensor integrated on1025
+ferroelectric tunnel junction. Advanced Materials 36, 2404026. 113. Li, Z., Xu, H., Zheng, Y., Liu, L., Li, L., Lou, Z., and Wang, L. (2025). A reconfigurable het-1027
+erostructure transistor array for monocular 3d parallax reconstruction. Nature Electronics1028
+8, 46–55. 1029
+114. Batzner, S., Musaelian, A., Sun, L., Geiger, M., Mailoa, J.P., Kornbluth, M., Molinari, N.,1030
+1026
+Smidt, T.E., and Kozinsky, B. (2022). E (3)-equivariant graph neural networks for data-1031
+efficient and accurate interatomic potentials. Nature communications 13, 2453. 115. Buehler, M.J. (2022). Prediction of atomic stress fields using cycle-consistent adversarial1033
+neural networks based on unpaired and unmatched sparse datasets. Materials Advances1034
+3, 6280–6290. 1035
+271032
+116. Kandasamy, K., Dasarathy, G., Oliva, J.B., Schneider, J., and P´ oczos, B. (2016). Gaussian1036
+process bandit optimisation with multi-fidelity evaluations. Advances in neural information1037
+processing systems 29. 
 
 [89. Leonov, A.I., Hammer, A.J., Lach, S., Mehr, S.H.M., Caramelli, D., Angelone, D., Khan, A., O’Sullivan, S., Craven, M., Wilbraham, L., et al. (2024). An integrated self-optimizing programmable chemical synthesis and reaction engine. Nature Communications, 15, 1240.](https://www.nature.com/articles/s41467-024-45444-3)
 
