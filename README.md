@@ -48,59 +48,61 @@ Generative AL expands the exploration boundaries of materials discovery by integ
 
 [3. Liu, Y., Zhao, T., Ju, W., and Shi, S. (2017). Materials discovery and design using machine learning. Journal of Materiomics, 3, 159–177.](https://www.sciencedirect.com/science/article/pii/S2352847817300515)
 
-[4. Slattery, A., Wen, Z., Tenblad, P., Sanjosé-Orduna, J., Pintossi, D., den Hartog, T., and Noël, T. (2024). Automated self-optimization, intensification, and scale-up of photocatalysis in flow. Science, 383, eadj1817.](https://www.science.org/doi/10.1126/science.adj1817)
+[4. Zheng, Y., Xu, H., Li, Z., Li, L., Yu, Y., Jiang, P., Shi, Y., Zhang, J., Huang, Y., Luo, Q. et al.(2025). Artificial intelligence-driven approaches in semiconductor research. Advanced Materials pp. 2504378](https://pubmed.ncbi.nlm.nih.gov/40534303/)
 
-[5. Lookman, T., Balachandran, P.V., Xue, D., and Yuan, R. (2019). Active learning in materials science with emphasis on adaptive sampling using uncertainties for targeted design. npj Computational Materials, 5, 21.](https://www.nature.com/articles/s41524-019-0153-8)
+[5. Slattery, A., Wen, Z., Tenblad, P., Sanjosé-Orduna, J., Pintossi, D., den Hartog, T., and Noël, T. (2024). Automated self-optimization, intensification, and scale-up of photocatalysis in flow. Science, 383, eadj1817.](https://www.science.org/doi/10.1126/science.adj1817)
 
-[6. Bai, X., and Zhang, X. (2025). Artificial intelligence-powered materials science. Nano-Micro Letters, 17, 1–30.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11803041/)
+[6. Lookman, T., Balachandran, P.V., Xue, D., and Yuan, R. (2019). Active learning in materials science with emphasis on adaptive sampling using uncertainties for targeted design. npj Computational Materials, 5, 21.](https://www.nature.com/articles/s41524-019-0153-8)
 
-[7. Shahriari, B., Swersky, K., Wang, Z., Adams, R.P., and De Freitas, N. (2015). Taking the human out of the loop: A review of bayesian optimization. Proceedings of the IEEE, 104, 148–175.](https://ieeexplore.ieee.org/document/7352306)
+[7.  Bai, X., and Zhang, X. (2025). Artificial intelligence-powered materials science. Nano-Micro Letters, 17, 1–30.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11803041/)
 
-[8. Szymanski, N.J., Rendy, B., Fei, Y., Kumar, R.E., He, T., Milsted, D., McDermott, M.J., Gallant, M., Cubuk, E.D., Merchant, A., et al. (2023). An autonomous laboratory for the accelerated synthesis of novel materials. Nature, 624, 86–91.](https://www.nature.com/articles/s41586-023-06734-w)
+[8. Shahriari, B., Swersky, K., Wang, Z., Adams, R.P., and De Freitas, N. (2015). Taking the human out of the loop: A review of bayesian optimization. Proceedings of the IEEE, 104, 148–175.](https://ieeexplore.ieee.org/document/7352306)
 
-[9. MacLeod, B.P., Parlane, F.G., Morrissey, T.D., Häse, F., Roch, L.M., Dettelbach, K.E., Moreira, R., Yunker, L.P., Rooney, M.B., Deeth, J.R., et al. (2020). Self-driving laboratory for accelerated discovery of thin-film materials. Science Advances, 6, eaaz8867.](https://www.science.org/doi/10.1126/sciadv.aaz8867)
+[9.Szymanski, N.J., Rendy, B., Fei, Y., Kumar, R.E., He, T., Milsted, D., McDermott, M.J., Gallant, M., Cubuk, E.D., Merchant, A., et al. (2023). An autonomous laboratory for the accelerated synthesis of novel materials. Nature, 624, 86–91.](https://www.nature.com/articles/s41586-023-06734-w)
 
-[10. Settles, B. (1995). Active learning literature survey. Science 10, 237–304.](https://burrsettles.com/pub/settles.activelearning.pdf)
+[10. MacLeod, B.P., Parlane, F.G., Morrissey, T.D., Häse, F., Roch, L.M., Dettelbach, K.E., Moreira, R., Yunker, L.P., Rooney, M.B., Deeth, J.R., et al. (2020). Self-driving laboratory for accelerated discovery of thin-film materials. Science Advances, 6, eaaz8867.](https://www.science.org/doi/10.1126/sciadv.aaz8867)
 
-[11. Schmidt, J., Marques, M.R., Botti, S., and Marques, M.A. (2019). Recent advances and applications of machine learning in solid-state materials science. npj Computational Materials, 5, 83.](https://www.nature.com/articles/s41524-019-0221-0)
+[11. Settles, B. (1995). Active learning literature survey. Science 10, 237–304.](https://burrsettles.com/pub/settles.activelearning.pdf)
 
-[12. Kumar, P., and Gupta, A. (2020). Active learning query strategies for classification, regression, and clustering: A survey. Journal of Computer Science and Technology, 35, 913–945.](https://link.springer.com/article/10.1007/s11390-020-9487-4)
+[12. Schmidt, J., Marques, M.R., Botti, S., and Marques, M.A. (2019). Recent advances and applications of machine learning in solid-state materials science. npj Computational Materials, 5, 83.](https://www.nature.com/articles/s41524-019-0221-0)
 
-[13. Saal, J.E., Oliynyk, A.O., and Meredig, B. (2020). Machine learning in materials discovery: Confirmed predictions and their underlying approaches. Annual Review of Materials Research, 50, 49–69.](https://www.annualreviews.org/content/journals/10.1146/annurev-matsci-090319-010954)
+[13. Kumar, P., and Gupta, A. (2020). Active learning query strategies for classification, regression, and clustering: A survey. Journal of Computer Science and Technology, 35, 913–945.](https://link.springer.com/article/10.1007/s11390-020-9487-4)
 
-[14. Yunfan, W., Yuan, T., Yumei, Z., and Dezhen, X. (2023). Progress on active learning assisted materials discovery. Journal of the Chinese Ceramic Society, 51, 544–551.](https://www.sciopen.com/article/10.14062/j.issn.0454-5648.20220924)
+[14. Saal, J.E., Oliynyk, A.O., and Meredig, B. (2020). Machine learning in materials discovery: Confirmed predictions and their underlying approaches. Annual Review of Materials Research, 50, 49–69.](https://www.annualreviews.org/content/journals/10.1146/annurev-matsci-090319-010954)
 
-[15. Lewis, D.D. (1995). A sequential algorithm for training text classifiers: Corrigendum and additional data. ACM SIGIR Forum, 29, 13–19.](https://dl.acm.org/doi/10.1145/219587.219592)
+[15. Yunfan, W., Yuan, T., Yumei, Z., and Dezhen, X. (2023). Progress on active learning assisted materials discovery. Journal of the Chinese Ceramic Society, 51, 544–551.](https://www.sciopen.com/article/10.14062/j.issn.0454-5648.20220924)
 
-[16. Beluch, W.H., Genewein, T., Nürnberger, A., and Köhler, J.M. (2018). The power of ensembles for active learning in image classification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 9368–9377.](https://ieeexplore.ieee.org/document/8579074)
+[16. Lewis, D.D. (1995). A sequential algorithm for training text classifiers: Corrigendum and additional data. ACM SIGIR Forum, 29, 13–19.](https://dl.acm.org/doi/10.1145/219587.219592)
 
-[17. Zhu, M., Fan, C., Chen, H., Liu, Y., Mao, W., Xu, X., and Shen, C. (2024). Generative active learning for long-tailed instance segmentation. In International Conference on Machine Learning, PMLR, 62349–62368.](https://openreview.net/forum?id=Pt7WaT5dxV)
+[17. Beluch, W.H., Genewein, T., Nürnberger, A., and Köhler, J.M. (2018). The power of ensembles for active learning in image classification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 9368–9377.](https://ieeexplore.ieee.org/document/8579074)
 
-[18. Zhu, J.J., and Bento, J. (2017). Generative adversarial active learning. arXiv preprint arXiv:1702.07956.]()
+[18. Zhu, M., Fan, C., Chen, H., Liu, Y., Mao, W., Xu, X., and Shen, C. (2024). Generative active learning for long-tailed instance segmentation. In International Conference on Machine Learning, PMLR, 62349–62368.](https://openreview.net/forum?id=Pt7WaT5dxV)
 
-[19. Liu, Y., Li, Z., Zhou, C., Jiang, Y., Sun, J., Wang, M., and He, X. (2019). Generative adversarial active learning for unsupervised outlier detection. IEEE Transactions on Knowledge and Data Engineering, 32, 1517–1528.](https://arxiv.org/abs/1702.07956)
+[19. Zhu, J.J., and Bento, J. (2017). Generative adversarial active learning. arXiv preprint arXiv:1702.07956.](https://ui.adsabs.harvard.edu/abs/2017arXiv170207956Z/abstract)
 
-[20. Gui, J., Sun, Z., Wen, Y., Tao, D., and Ye, J. (2021). A review on generative adversarial networks: Algorithms, theory, and applications. IEEE Transactions on Knowledge and Data Engineering, 35, 3313–3332.](https://ieeexplore.ieee.org/document/9625798)
+[20. Liu, Y., Li, Z., Zhou, C., Jiang, Y., Sun, J., Wang, M., and He, X. (2019). Generative adversarial active learning for unsupervised outlier detection. IEEE Transactions on Knowledge and Data Engineering, 32, 1517–1528.](https://arxiv.org/abs/1702.07956)
 
-[21. Rao, Z., Tung, P.Y., Xie, R., Wei, Y., Zhang, H., Ferrari, A., Klaver, T., Körmann, F., Sukumar, P.T., Kwiatkowski da Silva, A., et al. (2022). Machine learning–enabled high-entropy alloy discovery. Science, 378, 78–85.](https://www.science.org/doi/10.1126/science.abo4940)
+[21. Gui, J., Sun, Z., Wen, Y., Tao, D., and Ye, J. (2021). A review on generative adversarial networks: Algorithms, theory, and applications. IEEE Transactions on Knowledge and Data Engineering, 35, 3313–3332.](https://ieeexplore.ieee.org/document/9625798)
 
-[22. Sohail, Y., Zhang, C., Xue, D., Zhang, J., Zhang, D., Gao, S., Yang, Y., Fan, X., Zhang, H., Liu, G., et al. (2025). Machine-learning design of ductile FeNiCoAlTa alloys with high strength. Nature, 1–6.](https://www.nature.com/articles/s41586-025-09160-2)
+[22. Rao, Z., Tung, P.Y., Xie, R., Wei, Y., Zhang, H., Ferrari, A., Klaver, T., Körmann, F., Sukumar, P.T., Kwiatkowski da Silva, A., et al. (2022). Machine learning–enabled high-entropy alloy discovery. Science, 378, 78–85.](https://www.science.org/doi/10.1126/science.abo4940)
 
-[23. Moon, J., Beker, W., Siek, M., Kim, J., Lee, H.S., Hyeon, T., and Grzybowski, B.A. (2024). Active learning guides discovery of a champion four-metal perovskite oxide for oxygen evolution electrocatalysis. Nature Materials, 23, 108–115.](https://www.nature.com/articles/s41563-023-01707-w)
+[23. Sohail, Y., Zhang, C., Xue, D., Zhang, J., Zhang, D., Gao, S., Yang, Y., Fan, X., Zhang, H., Liu, G., et al. (2025). Machine-learning design of ductile FeNiCoAlTa alloys with high strength. Nature, 1–6.](https://www.nature.com/articles/s41586-025-09160-2)
 
-[24. Suvarna, M., Zou, T., Chong, S.H., Ge, Y., Martín, A.J., and Pérez-Ramírez, J. (2024). Active learning streamlines development of high performance catalysts for higher alcohol synthesis. Nature Communications, 15, 5844.](https://www.nature.com/articles/s41467-024-50215-1)
+[24. Moon, J., Beker, W., Siek, M., Kim, J., Lee, H.S., Hyeon, T., and Grzybowski, B.A. (2024). Active learning guides discovery of a champion four-metal perovskite oxide for oxygen evolution electrocatalysis. Nature Materials, 23, 108–115.](https://www.nature.com/articles/s41563-023-01707-w)
 
-[25. Merchant, A., Batzner, S., Schoenholz, S.S., Aykol, M., Cheon, G., and Cubuk, E.D. (2023). Scaling deep learning for materials discovery. Nature, 624, 80–85.](https://www.nature.com/articles/s41586-023-06735-9)
+[25. Suvarna, M., Zou, T., Chong, S.H., Ge, Y., Martín, A.J., and Pérez-Ramírez, J. (2024). Active learning streamlines development of high performance catalysts for higher alcohol synthesis. Nature Communications, 15, 5844.](https://www.nature.com/articles/s41467-024-50215-1)
 
-[26. Lee, J.A., Park, J., Sagong, M.J., Ahn, S.Y., Cho, J.W., Lee, S., and Kim, H.S. (2025). Active learning framework to optimize process parameters for additive-manufactured Ti-6Al-4V with high strength and ductility. Nature Communications, 16, 931.](https://www.nature.com/articles/s41467-025-56267-1)
+[26. Merchant, A., Batzner, S., Schoenholz, S.S., Aykol, M., Cheon, G., and Cubuk, E.D. (2023). Scaling deep learning for materials discovery. Nature, 624, 80–85.](https://www.nature.com/articles/s41586-023-06735-9)
 
-[27. Zhang, R., Xu, J., Zhang, H., Xu, G., and Luo, T. (2025). Active learning-guided exploration of thermally conductive polymers under strain. Digital Discovery, 4, 812–823.](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00267a)
+[27. Lee, J.A., Park, J., Sagong, M.J., Ahn, S.Y., Cho, J.W., Lee, S., and Kim, H.S. (2025). Active learning framework to optimize process parameters for additive-manufactured Ti-6Al-4V with high strength and ductility. Nature Communications, 16, 931.](https://www.nature.com/articles/s41467-025-56267-1)
 
-[28. Johnson, N.S., Mishra, A.A., Kirsch, D.J., and Mehta, A. (2024). Active learning for rapid targeted synthesis of compositionally complex alloys. Materials, 17, 4038.](https://www.mdpi.com/1996-1944/17/16/4038)
+[28. Zhang, R., Xu, J., Zhang, H., Xu, G., and Luo, T. (2025). Active learning-guided exploration of thermally conductive polymers under strain. Digital Discovery, 4, 812–823.](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00267a)
 
-[29. Verduzco, J.C., Marinero, E.E., and Strachan, A. (2021). An active learning approach for the design of doped LLZO ceramic garnets for battery applications. Integrating Materials and Manufacturing Innovation, 10, 299–310.](https://link.springer.com/article/10.1007/s40192-021-00214-7)
+[29. Johnson, N.S., Mishra, A.A., Kirsch, D.J., and Mehta, A. (2024). Active learning for rapid targeted synthesis of compositionally complex alloys. Materials, 17, 4038.](https://www.mdpi.com/1996-1944/17/16/4038)
 
-[30. Pedersen, J.K., Clausen, C.M., Krysiak, O.A., Xiao, B., Batchelor, T.A., Löffler, T., Mints, V.A., Banko, L., Arenz, M., Savan, A., et al. (2021). Bayesian optimization of high-entropy alloy compositions for electrocatalytic oxygen reduction. Angewandte Chemie, 133, 24346–24354.](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202108116)
+[30. Verduzco, J.C., Marinero, E.E., and Strachan, A. (2021). An active learning approach for the design of doped LLZO ceramic garnets for battery applications. Integrating Materials and Manufacturing Innovation, 10, 299–310.](https://link.springer.com/article/10.1007/s40192-021-00214-7)
+
+[31. Pedersen, J.K., Clausen, C.M., Krysiak, O.A., Xiao, B., Batchelor, T.A., Löffler, T., Mints, V.A., Banko, L., Arenz, M., Savan, A., et al. (2021). Bayesian optimization of high-entropy alloy compositions for electrocatalytic oxygen reduction. Angewandte Chemie, 133, 24346–24354.](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202108116)
 
 [31. Talapatra, A., Boluki, S., Duong, T., Qian, X., Dougherty, E., and Arróyave, R. (2018). Autonomous efficient experiment design for materials discovery with Bayesian model averaging. Physical Review Materials, 2, 113803.](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.113803)
 
