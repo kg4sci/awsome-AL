@@ -190,109 +190,95 @@ Generative AL expands the exploration boundaries of materials discovery by integ
 
 [74. Gómez-Bombarelli, R., Aguilera-Iparraguirre, J., Hirzel, T.D., Duvenaud, D., Maclaurin, D., Blood-Forsythe, M.A., Chae, H.S., Einzinger, M., Ha, D.G., Wu, T., et al. (2016). Design of efficient molecular organic light-emitting diodes by a high-throughput virtual screening and experimental approach. Nature Materials, 15, 1120–1127.](https://www.nature.com/articles/nmat4717)
 
-75. Zhu, J.Y., Park, T., Isola, P., and Efros, A.A. (2017). Unpaired image-to-image translation928
-using cycle-consistent adversarial networks. In Proceedings of the IEEE international929
-conference on computer vision. pp. 2223–2232.930
-76. Panisilvam, J., Hajizadeh, E., Weeratunge, H., Bailey, J., and Kim, S. (2023). Asymmetric931
-cyclegans for inverse design of photonic metastructures. APL Machine Learning 1. 
+[75. Zhu, J.Y., Park, T., Isola, P., and Efros, A.A. (2017). Unpaired image-to-image translation using cycle-consistent adversarial networks. In Proceedings of the IEEE international conference on computer vision. pp. 2223–2232.](https://ieeexplore.ieee.org/document/8237506)
 
-[66. Bran, A.M., Cox, S., Schilter, O., Baldassari, C., White, A.D., and Schwaller, P. (2024). Augmenting large language models with chemistry tools. Nature Machine Intelligence, 6, 525–535.](https://www.nature.com/articles/s42256-024-00832-8)
+[76. Panisilvam, J., Hajizadeh, E., Weeratunge, H., Bailey, J., and Kim, S. (2023). Asymmetric cyclegans for inverse design of photonic metastructures. APL Machine Learning 1.](https://pubs.aip.org/aip/aml/article/1/4/046105/2918963/Asymmetric-CycleGANs-for-inverse-design-of)
 
-[67. Xie, T., Wan, Y., Liu, Y., Zeng, Y., Wang, S., Zhang, W., Grazian, C., Kit, C., Ouyang, W., Zhou, D., et al. (2025). Large language models as materials science adapted learners. Nature.](https://openreview.net/forum?id=iTjHGQweoF)
+[77. Bran, A.M., Cox, S., Schilter, O., Baldassari, C., White, A.D., and Schwaller, P. (2024). Augmenting large language models with chemistry tools. Nature Machine Intelligence, 6, 525–535.](https://www.nature.com/articles/s42256-024-00832-8)
 
-[68. Boiko, D.A., MacKnight, R., Kline, B., and Gomes, G. (2023). Autonomous chemical research with large language models. Nature, 624, 570–578.](https://www.nature.com/articles/s41586-023-06792-0)
+[78. Xie, T., Wan, Y., Liu, Y., Zeng, Y., Wang, S., Zhang, W., Grazian, C., Kit, C., Ouyang, W., Zhou, D., et al. (2025). Large language models as materials science adapted learners. Nature.](https://openreview.net/forum?id=iTjHGQweoF)
 
-80. Buehler, M.J. (2025). Preflexor: Preference-based recursive language modeling for ex-940
-ploratory optimization of reasoning and agentic thinking. npj Artificial Intelligence 1, 4. 81. Buehler, M.J. (2024). Cephalo: Multi-modal vision-language models for bio-inspired mate-942
-rials analysis and design. Advanced Functional Materials 34, 2409531. 82. Buehler, M.J. (2025). In situ graph reasoning and knowledge expansion using graph-944
-preflexor. Advanced Intelligent Discovery pp. 202500006.
+[79. Boiko, D.A., MacKnight, R., Kline, B., and Gomes, G. (2023). Autonomous chemical research with large language models. Nature, 624, 570–578.](https://www.nature.com/articles/s41586-023-06792-0)
 
-[69. Zhang, Y., Han, Y., Chen, S., Yu, R., Zhao, X., Liu, X., Zeng, K., Yu, M., Tian, J., Zhu, F., et al. (2025). Large language models to accelerate organic chemistry synthesis. Nature Machine Intelligence, 1–13.](https://www.nature.com/articles/s42256-025-01066-y)
+[80. Buehler, M.J. (2025). Preflexor: Preference-based recursive language modeling for exploratory optimization of reasoning and agentic thinking. npj Artificial Intelligence 1, 4.](https://www.nature.com/articles/s44387-025-00003-z)
 
-84. Ghafarollahi, A., and Buehler, M.J. (2024). Protagents: protein discovery via large lan-949
-guage model multi-agent collaborations combining physics and machine learning. Digital950
-Discovery 3, 1389–1409. 951
-85. Ghafarollahi, A., and Buehler, M.J. (2025). Sparks: Multi-agent artificial intelligence model952
-discovers protein design principles. arXiv preprint arXiv:2504.19017.
+[81. Buehler, M.J. (2024). Cephalo: Multi-modal vision-language models for bio-inspired materials analysis and design. Advanced Functional Materials 34, 2409531.](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202409531)
 
-[70. Snoek, J., Larochelle, H., and Adams, R.P. (2012). Practical Bayesian optimization of machine learning algorithms. Advances in Neural Information Processing Systems, 25.](https://dl.acm.org/doi/10.5555/2999325.2999464)
+[82. Buehler, M.J. (2025). In situ graph reasoning and knowledge expansion using graph-preflexor. Advanced Intelligent Discovery pp. 202500006.](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aidi.202500006)
 
-[71. Asprion, N., Böttcher, R., Pack, R., Stavrou, M.E., Höller, J., Schwientek, J., and Bortz, M. (2019). Gray-box modeling for the optimization of chemical processes. Chemie Ingenieur Technik, 91, 305–313.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cite.201800086)
+[83. Zhang, Y., Han, Y., Chen, S., Yu, R., Zhao, X., Liu, X., Zeng, K., Yu, M., Tian, J., Zhu, F., et al. (2025). Large language models to accelerate organic chemistry synthesis. Nature Machine Intelligence, 1–13.](https://www.nature.com/articles/s42256-025-01066-y)
 
-[72. Psichogios, D.C., and Ungar, L.H. (1992). A hybrid neural network-first principles approach to process modeling. AIChE Journal, 38, 1499–1511.](https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.690381003)
+[84. Ghafarollahi, A., and Buehler, M.J. (2024). Protagents: protein discovery via large language model multi-agent collaborations combining physics and machine learning. Digital950
+Discovery 3, 1389–1409.](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00013g)
 
-[73. Molga, E. (2003). Neural network approach to support modelling of chemical reactors: Problems, resolutions, criteria of application. Chemical Engineering and Processing: Process Intensification, 42, 675–695.](https://www.sciencedirect.com/science/article/abs/pii/S0255270102002052)
+[85. Ghafarollahi, A., and Buehler, M.J. (2025). Sparks: Multi-agent artificial intelligence model discovers protein design principles. arXiv preprint arXiv:2504.19017.](https://arxiv.org/abs/2504.19017)
 
-[74. Ziatdinov, M.A., Ghosh, A., and Kalinin, S.V. (2022). Physics makes the difference: Bayesian optimization and active learning via augmented Gaussian process. Machine Learning: Science and Technology, 3, 015003.](https://iopscience.iop.org/article/10.1088/2632-2153/ac4baa)
+[86. Snoek, J., Larochelle, H., and Adams, R.P. (2012). Practical Bayesian optimization of machine learning algorithms. Advances in Neural Information Processing Systems, 25.](https://dl.acm.org/doi/10.5555/2999325.2999464)
 
-[75. Ladygin, V., Beniya, I., Makarov, E., and Shapeev, A. (2021). Bayesian learning of thermodynamic integration and numerical convergence for accurate phase diagrams. Physical Review B, 104, 104102.](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.104102)
+[87. Asprion, N., Böttcher, R., Pack, R., Stavrou, M.E., Höller, J., Schwientek, J., and Bortz, M. (2019). Gray-box modeling for the optimization of chemical processes. Chemie Ingenieur Technik, 91, 305–313.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cite.201800086)
 
-[76. Vela, B., Khatamsaz, D., Acemi, C., Karaman, I., and Arróyave, R. (2023). Data-augmented modeling for yield strength of refractory high entropy alloys: A Bayesian approach. Acta Materialia, 261, 119351.](https://www.sciencedirect.com/science/article/abs/pii/S135964542300681X)
+[88. Psichogios, D.C., and Ungar, L.H. (1992). A hybrid neural network-first principles approach to process modeling. AIChE Journal, 38, 1499–1511.](https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.690381003)
 
-[77. Khatamsaz, D., Neuberger, R., Roy, A.M., Zadeh, S.H., Otis, R., and Arróyave, R. (2023). A physics-informed Bayesian optimization approach for material design: Application to NiTi shape memory alloys. npj Computational Materials, 9, 221.](https://www.nature.com/articles/s41524-023-01173-7)
+[89. Molga, E. (2003). Neural network approach to support modelling of chemical reactors: Problems, resolutions, criteria of application. Chemical Engineering and Processing: Process Intensification, 42, 675–695.](https://www.sciencedirect.com/science/article/abs/pii/S0255270102002052)
 
-94. Zhao, C., Zhang, F., Lou, W., Wang, X., and Yang, J. (2024). A comprehensive review976
-of advances in physics-informed neural networks and their applications in complex fluid977
-dynamics. Physics of Fluids 36. 95. Anagnostopoulos, S.J., Toscano, J.D., Stergiopulos, N., and Karniadakis, G.E. (2025).979
-Learning in pinns: Phase transition, diffusion equilibrium, and generalization. Neural Net-980
-works pp. 107983.981
-96. Gebauer, N., Gastegger, M., and Sch¨ utt, K. (2019). Symmetry-adapted generation of 3d982
-978
-point sets for the targeted discovery of molecules. Advances in neural information pro-983
-cessing systems 32. 984
-97. Xie, T., Fu, X., Ganea, O., Barzilay, R., and Jaakkola, T. (2022). Crystal diffusion variational985
-autoencoder for periodic material generation. Bulletin of the American Physical Society 67. 98. Buehler, M.J. (2022). Modeling atomistic dynamic fracture mechanisms using a progres-987
-sive transformer diffusion model. Journal of Applied Mechanics 89, 121009. 
+[90. Ziatdinov, M.A., Ghosh, A., and Kalinin, S.V. (2022). Physics makes the difference: Bayesian optimization and active learning via augmented Gaussian process. Machine Learning: Science and Technology, 3, 015003.](https://iopscience.iop.org/article/10.1088/2632-2153/ac4baa)
 
-[78. Gelbart, M.A., Snoek, J., and Adams, R.P. (2014). Bayesian optimization with unknown constraints. In 30th Conference on Uncertainty in Artificial Intelligence, UAI 2014, AUAI Press, 250–259.](https://dl.acm.org/doi/10.5555/3020751.3020778)
+[91. Ladygin, V., Beniya, I., Makarov, E., and Shapeev, A. (2021). Bayesian learning of thermodynamic integration and numerical convergence for accurate phase diagrams. Physical Review B, 104, 104102.](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.104102)
 
-100. Harris, S.B., Vasudevan, R., and Liu, Y. (2025). Active oversight and quality control in992
-standard bayesian optimization for autonomous experiments. npj Computational Materials993
-988
-11, 23.
+[92. Vela, B., Khatamsaz, D., Acemi, C., Karaman, I., and Arróyave, R. (2023). Data-augmented modeling for yield strength of refractory high entropy alloys: A Bayesian approach. Acta Materialia, 261, 119351.](https://www.sciencedirect.com/science/article/abs/pii/S135964542300681X)
 
-[79. Sun, S., Tiihonen, A., Oviedo, F., Liu, Z., Thapa, J., Zhao, Y., Hartono, N.T.P., Goyal, A., Heumueller, T., Batali, C., et al. (2021). A data fusion approach to optimize compositional stability of halide perovskites. Matter, 4, 1305–1322.](https://www.sciencedirect.com/science/article/pii/S2590238521000084)
+[93. Khatamsaz, D., Neuberger, R., Roy, A.M., Zadeh, S.H., Otis, R., and Arróyave, R. (2023). A physics-informed Bayesian optimization approach for material design: Application to NiTi shape memory alloys. npj Computational Materials, 9, 221.](https://www.nature.com/articles/s41524-023-01173-7)
 
-[80. Liu, Z., Rolston, N., Flick, A.C., Colburn, T.W., Ren, Z., Dauskardt, R.H., and Buonassisi, T. (2022). Machine learning with knowledge constraints for process optimization of open-air perovskite solar cell manufacturing. Joule, 6, 834–849.](https://www.sciencedirect.com/science/article/pii/S2542435122001301)
+[94. Zhao, C., Zhang, F., Lou, W., Wang, X., and Yang, J. (2024). A comprehensive review of advances in physics-informed neural networks and their applications in complex fluid977
+dynamics. Physics of Fluids 36.](https://pubs.aip.org/aip/pof/article-abstract/36/10/101301/3315125/A-comprehensive-review-of-advances-in-physics?redirectedFrom=fulltext)
 
-[81. Kusne, A.G., Yu, H., Wu, C., Zhang, H., Hattrick-Simpers, J., DeCost, B., Sarker, S., Oses, C., Toher, C., Curtarolo, S., et al. (2020). On-the-fly closed-loop materials discovery via Bayesian active learning. Nature Communications, 11, 5966.](https://www.nature.com/articles/s41467-020-19597-w)
+[95. Anagnostopoulos, S.J., Toscano, J.D., Stergiopulos, N., and Karniadakis, G.E. (2025). Learning in pinns: Phase transition, diffusion equilibrium, and generalization. Neural Net-works pp. 107983.](https://www.sciencedirect.com/science/article/pii/S0893608025008640)
 
-[82. Tian, Y., Li, T., Pang, J., Zhou, Y., Xue, D., Ding, X., and Lookman, T. (2025). Materials design with target-oriented Bayesian optimization. npj Computational Materials, 11, 209.](https://www.nature.com/articles/s41524-025-01704-4)
+[96. Gebauer, N., Gastegger, M., and Sch¨ utt, K. (2019). Symmetry-adapted generation of 3d point sets for the targeted discovery of molecules. Advances in neural information processing systems 32.](https://proceedings.neurips.cc/paper_files/paper/2019/file/a4d8e2a7e0d0c102339f97716d2fdfb6-Paper.pdf)
 
-[83. Vlachos, A. (2008). A stopping criterion for active learning. Computer Speech & Language, 22, 295–312.](https://www.sciencedirect.com/science/article/abs/pii/S088523080700068X)
+[97. Xie, T., Fu, X., Ganea, O., Barzilay, R., and Jaakkola, T. (2022). Crystal diffusion variational autoencoder for periodic material generation. Bulletin of the American Physical Society 67.](https://openreview.net/pdf?id=03RLpj-tc_) 
 
-[84. Bloodgood, M., and Vijay-Shanker, K. (2009). A method for stopping active learning based on stabilizing predictions and the need for user-adjustable stopping. In Thirteenth Conference on Computational Natural Language Learning (CoNLL), 39.](https://aclanthology.org/W09-1107/)
+[98. Buehler, M.J. (2022). Modeling atomistic dynamic fracture mechanisms using a progressive transformer diffusion model. Journal of Applied Mechanics 89, 121009.](https://dspace.mit.edu/handle/1721.1/148574) 
 
-[85. Ishibashi, H., and Hino, H. (2020). Stopping criterion for active learning based on deterministic generalization bounds. In International Conference on Artificial Intelligence and Statistics, PMLR, 386–397.](https://proceedings.mlr.press/v108/ishibashi20a.html)
+[99. Gelbart, M.A., Snoek, J., and Adams, R.P. (2014). Bayesian optimization with unknown constraints. In 30th Conference on Uncertainty in Artificial Intelligence, UAI 2014, AUAI Press, 250–259.](https://dl.acm.org/doi/10.5555/3020751.3020778)
 
-[86. Pullar-Strecker, Z., Dost, K., Frank, E., and Wicker, J. (2024). Hitting the target: Stopping active learning at the cost-based optimum. Machine Learning, 113, 1529–1547.](https://link.springer.com/article/10.1007/s10994-022-06253-1)
+[100. Harris, S.B., Vasudevan, R., and Liu, Y. (2025). Active oversight and quality control in standard bayesian optimization for autonomous experiments. npj Computational Materials 11, 23.](https://www.nature.com/articles/s41524-024-01485-2)
 
-[87. Callaghan, M.W., and Müller-Hansen, F. (2020). Statistical stopping criteria for automated screening in systematic reviews. Systematic Reviews, 9, 273.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-020-01521-4)
+[101. Sun, S., Tiihonen, A., Oviedo, F., Liu, Z., Thapa, J., Zhao, Y., Hartono, N.T.P., Goyal, A., Heumueller, T., Batali, C., et al. (2021). A data fusion approach to optimize compositional stability of halide perovskites. Matter, 4, 1305–1322.](https://www.sciencedirect.com/science/article/pii/S2590238521000084)
 
-[88. Boetje, J., and van de Schoot, R. (2024). The SAFE procedure: A practical stopping heuristic for active learning-based screening in systematic reviews and meta-analyses. Systematic Reviews, 13, 81.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-024-02502-7)
+[102. Liu, Z., Rolston, N., Flick, A.C., Colburn, T.W., Ren, Z., Dauskardt, R.H., and Buonassisi, T. (2022). Machine learning with knowledge constraints for process optimization of open-air perovskite solar cell manufacturing. Joule, 6, 834–849.](https://www.sciencedirect.com/science/article/pii/S2542435122001301)
 
-111. Sholokhov, A., Liu, Y., Mansour, H., and Nabi, S. (2023). Physics-informed neural ode1021
-(pinode): embedding physics into models using collocation points. Scientific Reports 13, 1022
-10166. 1023
-112. Qin, X., Zhong, B., Lv, S., Long, X., Xu, H., Li, L., Xu, K., Lou, Z., Luo, Q., and Wang, L.1024
-(2024). A zero-voltage-writing artificial nervous system based on biosensor integrated on1025
-ferroelectric tunnel junction. Advanced Materials 36, 2404026. 113. Li, Z., Xu, H., Zheng, Y., Liu, L., Li, L., Lou, Z., and Wang, L. (2025). A reconfigurable het-1027
-erostructure transistor array for monocular 3d parallax reconstruction. Nature Electronics1028
-8, 46–55. 1029
-114. Batzner, S., Musaelian, A., Sun, L., Geiger, M., Mailoa, J.P., Kornbluth, M., Molinari, N.,1030
-1026
-Smidt, T.E., and Kozinsky, B. (2022). E (3)-equivariant graph neural networks for data-1031
-efficient and accurate interatomic potentials. Nature communications 13, 2453. 115. Buehler, M.J. (2022). Prediction of atomic stress fields using cycle-consistent adversarial1033
-neural networks based on unpaired and unmatched sparse datasets. Materials Advances1034
-3, 6280–6290. 1035
-271032
-116. Kandasamy, K., Dasarathy, G., Oliva, J.B., Schneider, J., and P´ oczos, B. (2016). Gaussian1036
-process bandit optimisation with multi-fidelity evaluations. Advances in neural information1037
-processing systems 29. 
+[103. Kusne, A.G., Yu, H., Wu, C., Zhang, H., Hattrick-Simpers, J., DeCost, B., Sarker, S., Oses, C., Toher, C., Curtarolo, S., et al. (2020). On-the-fly closed-loop materials discovery via Bayesian active learning. Nature Communications, 11, 5966.](https://www.nature.com/articles/s41467-020-19597-w)
 
-[89. Leonov, A.I., Hammer, A.J., Lach, S., Mehr, S.H.M., Caramelli, D., Angelone, D., Khan, A., O’Sullivan, S., Craven, M., Wilbraham, L., et al. (2024). An integrated self-optimizing programmable chemical synthesis and reaction engine. Nature Communications, 15, 1240.](https://www.nature.com/articles/s41467-024-45444-3)
+[104. Tian, Y., Li, T., Pang, J., Zhou, Y., Xue, D., Ding, X., and Lookman, T. (2025). Materials design with target-oriented Bayesian optimization. npj Computational Materials, 11, 209.](https://www.nature.com/articles/s41524-025-01704-4)
 
-[90. Rauschen, R., Ayme, J.F., Matysiak, B.M., Thomas, D., and Cronin, L. (2025). A programmable modular robot for the synthesis of molecular machines. Chem.](https://www.sciencedirect.com/science/article/pii/S2451929425000944)
+[105. Vlachos, A. (2008). A stopping criterion for active learning. Computer Speech & Language, 22, 295–312.](https://www.sciencedirect.com/science/article/abs/pii/S088523080700068X)
 
-[91. Gao, F., Li, H., Chen, Z., Yi, Y., Nie, S., Cheng, Z., Liu, Z., Guo, Y., Liu, S., Qin, Q., et al. (2025). A chemical autonomous robotic platform for end-to-end synthesis of nanoparticles. Nature Communications, 16, 7558.](https://www.nature.com/articles/s41467-025-62994-2)
+[106. Bloodgood, M., and Vijay-Shanker, K. (2009). A method for stopping active learning based on stabilizing predictions and the need for user-adjustable stopping. In Thirteenth Conference on Computational Natural Language Learning (CoNLL), 39.](https://aclanthology.org/W09-1107/)
+
+[107. Ishibashi, H., and Hino, H. (2020). Stopping criterion for active learning based on deterministic generalization bounds. In International Conference on Artificial Intelligence and Statistics, PMLR, 386–397.](https://proceedings.mlr.press/v108/ishibashi20a.html)
+
+[108. Pullar-Strecker, Z., Dost, K., Frank, E., and Wicker, J. (2024). Hitting the target: Stopping active learning at the cost-based optimum. Machine Learning, 113, 1529–1547.](https://link.springer.com/article/10.1007/s10994-022-06253-1)
+
+[109. Callaghan, M.W., and Müller-Hansen, F. (2020). Statistical stopping criteria for automated screening in systematic reviews. Systematic Reviews, 9, 273.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-020-01521-4)
+
+[110. Boetje, J., and van de Schoot, R. (2024). The SAFE procedure: A practical stopping heuristic for active learning-based screening in systematic reviews and meta-analyses. Systematic Reviews, 13, 81.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-024-02502-7)
+
+[111. Sholokhov, A., Liu, Y., Mansour, H., and Nabi, S. (2023). Physics-informed neural ode (pinode): embedding physics into models using collocation points. Scientific Reports 13, 10166.](https://www.nature.com/articles/s41598-023-36799-6)
+
+[112. Qin, X., Zhong, B., Lv, S., Long, X., Xu, H., Li, L., Xu, K., Lou, Z., Luo, Q., and Wang, L.(2024). A zero-voltage-writing artificial nervous system based on biosensor integrated on ferroelectric tunnel junction. Advanced Materials 36, 2404026.](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202404026)
+
+[113. Li, Z., Xu, H., Zheng, Y., Liu, L., Li, L., Lou, Z., and Wang, L. (2025). A reconfigurable heterostructure transistor array for monocular 3d parallax reconstruction. Nature Electronics 8, 46–55.](https://www.nature.com/articles/s41928-024-01261-6)
+
+[114. Batzner, S., Musaelian, A., Sun, L., Geiger, M., Mailoa, J.P., Kornbluth, M., Molinari, N.,Smidt, T.E., and Kozinsky, B. (2022). E (3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials. Nature communications 13, 2453.](https://www.nature.com/articles/s41467-022-29939-5)
+
+[115. Buehler, M.J. (2022). Prediction of atomic stress fields using cycle-consistent adversarial neural networks based on unpaired and unmatched sparse datasets. Materials Advances 3, 6280–6290.](https://pubs.rsc.org/en/content/articlelanding/2022/ma/d2ma00223j)
+
+[116. Kandasamy, K., Dasarathy, G., Oliva, J.B., Schneider, J., and P´ oczos, B. (2016). Gaussian process bandit optimisation with multi-fidelity evaluations. Advances in neural information processing systems 29.](https://proceedings.neurips.cc/paper_files/paper/2016/file/605ff764c617d3cd28dbbdd72be8f9a2-Paper.pdf)
+
+[117. Leonov, A.I., Hammer, A.J., Lach, S., Mehr, S.H.M., Caramelli, D., Angelone, D., Khan, A., O’Sullivan, S., Craven, M., Wilbraham, L., et al. (2024). An integrated self-optimizing programmable chemical synthesis and reaction engine. Nature Communications, 15, 1240.](https://www.nature.com/articles/s41467-024-45444-3)
+
+[118. Rauschen, R., Ayme, J.F., Matysiak, B.M., Thomas, D., and Cronin, L. (2025). A programmable modular robot for the synthesis of molecular machines. Chem.](https://www.sciencedirect.com/science/article/pii/S2451929425000944)
+
+[119. Gao, F., Li, H., Chen, Z., Yi, Y., Nie, S., Cheng, Z., Liu, Z., Guo, Y., Liu, S., Qin, Q., et al. (2025). A chemical autonomous robotic platform for end-to-end synthesis of nanoparticles. Nature Communications, 16, 7558.](https://www.nature.com/articles/s41467-025-62994-2)
 
